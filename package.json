@@ -1,0 +1,11 @@
+{
+	"name": "pinf-to-travis-ci",
+	"version": "0.1.0",
+  "main": "plugin.js",
+  "scripts": {
+    "install": "bin/install"
+  },
+  "dependencies": {
+    "bash.origin": "0.1.x"
+  }
+}
