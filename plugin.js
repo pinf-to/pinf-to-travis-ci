@@ -20,8 +20,6 @@ resolvedConfig.t = Date.now();
 
 console.log("TURN TRAVIS resolvedConfig", resolvedConfig);
 
-process.exit(1);
-
 	}
 
 	return exports;
